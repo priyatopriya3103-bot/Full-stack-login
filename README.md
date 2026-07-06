@@ -42,6 +42,7 @@ The next step is transforming this static website into a full-stack web applicat
 - Data validation and error handling.
 - Converting a frontend project into a fully functional full-stack application.
 
-«Progress: Frontend ✅ | Backend & Database 🔄 (In Progress)»
+«Progress: Frontend ✅ 
+Backend & Database 🔄 (In Progress)»
 
 "Every full-stack application starts with a single page. Today I built the interface; tomorrow I bring it to life with data." 🚀
